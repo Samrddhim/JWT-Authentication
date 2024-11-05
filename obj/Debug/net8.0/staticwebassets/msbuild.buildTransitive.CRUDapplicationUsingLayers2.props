@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CRUDapplicationUsingLayers2.props" />
+</Project>
